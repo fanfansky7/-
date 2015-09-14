@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>63BFAFAB-902C-4A24-BD6D-6B938C3BB1D9</string>
+	<key>IDESourceControlProjectName</key>
+	<string>YueKangSong</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>DA4FE440E2F6C16A26E7A5A5E8E24DEDE4B8B193</key>
+		<string>https://github.com/fanfansky7/YKS.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>YKS-1.0.2 2 (Before Import) (Before Import)/YueKangSong.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>DA4FE440E2F6C16A26E7A5A5E8E24DEDE4B8B193</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/fanfansky7/YKS.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>DA4FE440E2F6C16A26E7A5A5E8E24DEDE4B8B193</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>DA4FE440E2F6C16A26E7A5A5E8E24DEDE4B8B193</string>
+			<key>IDESourceControlWCCName</key>
+			<string>YKS</string>
+		</dict>
+	</array>
+</dict>
+</plist>
